@@ -13,9 +13,9 @@ Run this command:
 pip install -r requirements.txt
 ```
 
-### How to run
+## How to run
 + Collect the sounds of as many people as you want in raw_data folder.
-+ Perform post-process on the data using `make_dataset.ipynb`.
++ Perform post-processing on the data using `make_dataset.ipynb`.
 + Run this command to train model on your own dataset:
 
 ```
@@ -34,7 +34,7 @@ jupyter nbconvert --to script inference.ipynb
 jupyter nbconvert --to script pydio_classifier_bot.ipynb
 ```
 
-### Results
+## Results
 
 <img src="pics\output.png" width="600">
 
