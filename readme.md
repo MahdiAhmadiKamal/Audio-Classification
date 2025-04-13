@@ -36,7 +36,7 @@ jupyter nbconvert --to script pydio_classifier_bot.ipynb
 
 ## Results
 
-<img src="pics\output.png" width="600">
+<img src="pics\output.png" width="500">
 
 Output
 | Accuracy | Categorical Ccrossentropy Loss |
