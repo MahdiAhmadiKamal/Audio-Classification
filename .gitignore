@@ -1,3 +1,7 @@
 inference/input_audio/Mahdi_2.ogg
 inference/input_audio/input_audio.wav
 pydio_classifier_bot/pydio_classifier_bot_friends.ipynb
+data/
+dataset/
+raw_data/
+wav_data/
