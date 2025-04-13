@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## How to run
-+ Collect the sounds of as many people as you want in raw_data folder.
++ Collect the voices of as many people as you want in raw_data folder.
 + Perform post-processing on the data using `make_dataset.ipynb`.
 + Run this command to train model on your own dataset:
 
