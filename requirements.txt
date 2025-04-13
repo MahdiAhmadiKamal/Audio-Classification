@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pydub
+pyTelegramBotAPI
+tensorflow
+tensorflow_intel
